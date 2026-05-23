@@ -1,4 +1,23 @@
 # Eye-Control-Yes-No
+
+**Eye Control Yes No** is a simple communication aid that lets users answer yes or no using eye gaze.
+
+The app displays two large, clear cards and validates a selection after a configurable dwell time. Once a card is selected, the answer is spoken aloud in the selected language.
+
+## Features
+
+- Large Yes / No cards
+- Eye gaze selection
+- Adjustable dwell time
+- Voice output
+- Multiple languages
+- Simple and accessible interface
+- No account required
+- No advertising
+- No internet connection required
+
+## Privacy
+
 Eye Control Yes No is an accessibility-oriented communication aid.
 
 Politique de confidentialité — Eye Control Yes No
