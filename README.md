@@ -1,4 +1,4 @@
-# Eye-Control-Yes-No
+# Eye Control Yes No
 
 **Eye Control Yes No** is a simple communication aid that lets users answer yes or no using eye gaze.
 
@@ -18,14 +18,12 @@ The app displays two large, clear cards and validates a selection after a config
 
 ## Privacy
 
-Eye Control Yes No is an accessibility-oriented communication aid.
+Eye Control Yes No does not collect, store, sell, or share any personal data.
 
-Politique de confidentialité — Eye Control Yes No
+The app uses the device camera only for eye gaze tracking during use. Camera data is processed on the device and is not saved or transmitted.
 
-Eye Control Yes No ne collecte, ne stocke, ne vend et ne partage aucune donnée personnelle.
+The app does not require an account, does not include advertising, and does not use analytics or third-party tracking.
 
-L’application utilise la caméra de l’appareil uniquement pour le suivi du regard pendant l’utilisation. Les données caméra sont traitées localement sur l’appareil. Elles ne sont pas enregistrées, transmises ou partagées.
+## Contact
 
-L’application ne nécessite aucun compte, ne contient aucune publicité, n’utilise pas d’outil d’analyse et ne nécessite pas de connexion Internet.
-
-Contact : eyecontrol.yesno@gmail.com
+eyecontrol.yesno@gmail.com
