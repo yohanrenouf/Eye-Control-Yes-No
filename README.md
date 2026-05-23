@@ -9,4 +9,4 @@ L’application utilise la caméra de l’appareil uniquement pour le suivi du r
 
 L’application ne nécessite aucun compte, ne contient aucune publicité, n’utilise pas d’outil d’analyse et ne nécessite pas de connexion Internet.
 
-Contact : yohan.renouf@gmail.com
+Contact : eyecontrol.yesno@gmail.com
