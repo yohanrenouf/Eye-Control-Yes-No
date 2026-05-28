@@ -18,11 +18,22 @@ The app displays two large, clear cards and validates a selection after a config
 
 ## Privacy
 
-Eye Control Yes No does not collect, store, sell, or share any personal data.
+TrueDepth API and Face Data
 
-The app uses the device camera only for eye gaze tracking during use. Camera data is processed on the device and is not saved or transmitted.
+Eye Control Yes No uses Apple’s ARKit Face Tracking / TrueDepth camera features to estimate the user’s gaze direction and allow the user to select Yes or No cards.
 
-The app does not require an account, does not include advertising, and does not use analytics or third-party tracking.
+The app may process the following face-related information on the device during use:
+- face position and orientation;
+- eye direction / gaze-related information provided by ARKit;
+- temporary tracking data needed to determine whether the user is looking at a Yes or No card.
+
+This information is used only to enable eye gaze selection inside the app.
+
+Eye Control Yes No does not store, save, record, transmit, sell, or share face data. Face tracking data is processed locally on the device in real time and is discarded immediately after use.
+
+Face data is not used for identification, authentication, advertising, analytics, profiling, or tracking.
+
+No face data is shared with third parties.
 
 ## Contact
 
