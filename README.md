@@ -22,7 +22,7 @@ Once a card is selected, the answer is spoken aloud in the selected language.
 
 ![EatDrinkToilet](images/ENEatDrinkToilet.png)
 
-![PicturesEatDrinkToilet](images/ENPhotosMangerBoireToilettes.png)
+![PicturesEatDrinkToilet](images/PhotosMangerBoireToilettes.png)
 
 ## Main Features
 
