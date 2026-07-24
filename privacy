@@ -1,18 +1,61 @@
-TrueDepth API and Face Data
+## Privacy
 
-Eye Control Yes No uses Apple’s ARKit Face Tracking / TrueDepth camera features to estimate the user’s gaze direction and allow the user to select Yes or No cards.
+### TrueDepth API and Face Data
+
+Eye Control Yes No uses Apple’s ARKit Face Tracking and TrueDepth camera features to estimate the user’s gaze direction and allow the user to select communication cards.
 
 The app may process the following face-related information on the device during use:
-- face position and orientation;
-- eye direction / gaze-related information provided by ARKit;
-- temporary tracking data needed to determine whether the user is looking at a Yes or No card.
+
+* face position and orientation;
+* eye direction and gaze-related information provided by ARKit;
+* temporary tracking data needed to determine whether the user is looking at a card.
 
 This information is used only to enable eye gaze selection inside the app.
 
-Eye Control Yes No does not store, save, record, transmit, sell, or share face data. Face tracking data is processed locally on the device in real time and is discarded immediately after use.
+Eye Control Yes No does not store, save, record, transmit, sell or share face data.
 
-Face data is not used for identification, authentication, advertising, analytics, profiling, or tracking.
+Face tracking data is processed locally on the device in real time and is discarded immediately after use.
+
+Face data is not used for identification, authentication, advertising, analytics, profiling or tracking.
 
 No face data is shared with third parties.
 
-Contact: eyecontrol.yesno@gmail.com
+### Custom Themes and Photos
+
+Eye Control Yes No allows users to create custom communication themes.
+
+A custom theme may contain:
+
+* text;
+* colours;
+* emojis;
+* photos selected from the device;
+* photos taken directly with the camera.
+
+Photos are used only when the user chooses to personalise a card with an image.
+
+Photos and custom theme data are stored locally on the device.
+
+The app does not automatically upload, transmit, sell or share photos or custom themes.
+
+Users can manually export a custom theme using the `.egthemes.zip` format. When a theme is exported, it may include the text, colours, emojis and photos added by the user.
+
+Theme export is always initiated manually by the user.
+
+Imported themes are stored locally on the device and can be deleted by the user.
+
+### Internet, Advertising and Tracking
+
+Eye Control Yes No does not require an account.
+
+The app does not contain advertising.
+
+The app does not use face data, photos or custom themes for analytics, profiling, advertising or tracking.
+
+No personal data is sold or shared with third parties.
+
+### Contact
+
+For any privacy-related question, you can contact:
+
+[eyecontrol.yesno@gmail.com](mailto:eyecontrol.yesno@gmail.com)
