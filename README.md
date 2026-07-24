@@ -18,6 +18,8 @@ Once a card is selected, the answer is spoken aloud in the selected language.
 
 ![Features](images/ENFeatures.png)
 
+![Features](images/ENAide.png)
+
 ![Themes](images/ENThemes.png)
 
 ![EatDrinkToilet](images/ENEatDrinkToilet.png)
