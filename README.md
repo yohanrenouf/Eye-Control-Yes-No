@@ -14,11 +14,15 @@ Once a card is selected, the answer is spoken aloud in the selected language.
 
 ## Screenshots
 
-![Yes and No cards](images/yes-no-cards.png)
+![Yes and No cards](images/ENYesNo.png)
 
-![Custom themes](images/custom-themes.png)
+![Custom themes](images/ENFeatures.png)
 
-![Theme import and export](images/theme-import-export.png)
+![Theme import and export](ENThemes.png)
+
+![Theme import and export](ENEatDrinkToilet.png)
+
+![Theme import and export](ENPhotosMangerBoireToilettes.png)
 
 ## Main Features
 
